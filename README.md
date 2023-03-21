@@ -5,7 +5,7 @@ Welcome to the TO DO LIST! a website where you can see your household chores. Yo
 
 ### Main page
 You can see 3 different types of chore charts: To Dos, In progress, Done!
-<img src="img/main_page.png" alt="Main Page" width=500/>
+<img src="images/main_page.png" alt="Main Page" width=500/>
 
 ### To Dos
 Hovering your mouse over the content of the to-do list item will change the color of the text to let you know which task you're working on.
