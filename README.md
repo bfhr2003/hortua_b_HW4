@@ -9,17 +9,13 @@ You can see 3 different types of chore charts: To Dos, In progress, Done!
 
 ### To Dos
 Hovering your mouse over the content of the to-do list item will change the color of the text to let you know which task you're working on.
-<img src="images/to_dos.png" alt="Main Page" width=500/>
 
 ### In Progress
 Hovering your mouse over the content of the to-do list item will change the color of the text to let you know which task you're working on. In addition, when clicking on the element, a loading icon and the underlined text will appear.
-<img src="images/in_progress.png" alt="Main Page" width=500/>
 
-### Done
+
+### In Progress
 Hovering your mouse over the content of the to-do list item will change the color of the text to let you know which task you're working on. In addition, when clicking on the element, a like icon and the strikethrough text will appear
-<img src="images/done.png" alt="Main Page" width=500/>
-
-
 
 
 
